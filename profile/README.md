@@ -1,5 +1,6 @@
 ## Welcome to MSD github repos
 
+![](https://github.com/MSD-IRIMAS/.github/blob/main/profile/msd.gif)
 <!--
 
 **Here are some ideas to get you started:**
