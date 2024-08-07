@@ -1,6 +1,6 @@
 ![](https://github.com/MSD-IRIMAS/.github/blob/main/profile/msd.gif)
 
-# MSD Team (Modelization and Data Science) - IRIMAS Lab
+# MSD Team (Modeling and Data Science) - IRIMAS Lab
 
 Welcome to the MSD Team's repository! We are part of the IRIMAS lab at the University of Haute-Alsace, located in Mulhouse, France. Our team specializes in data science with a particular focus on time series data, leveraging advanced machine learning and deep learning models to address a variety of tasks.
 
